@@ -1,1 +1,1 @@
-const size_t PRIME_STATE_COUNT = 144;
+const size_t PRIME_STATE_COUNT = 145;
