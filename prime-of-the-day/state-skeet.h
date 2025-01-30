@@ -1,1 +1,1 @@
-const size_t PRIME_STATE_COUNT = 403;
+const size_t PRIME_STATE_COUNT = 404;
