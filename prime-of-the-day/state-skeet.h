@@ -1,1 +1,1 @@
-const size_t PRIME_STATE_COUNT = 803;
+const size_t PRIME_STATE_COUNT = 804;
